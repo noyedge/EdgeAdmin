@@ -2,10 +2,10 @@ package waf
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/iplibrary"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeCommon/pkg/iplibrary"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeCommon/pkg/serverconfigs/firewallconfigs"
 	"github.com/iwind/TeaGo/lists"
 	"github.com/iwind/TeaGo/maps"
 	timeutil "github.com/iwind/TeaGo/utils/time"

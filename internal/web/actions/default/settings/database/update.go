@@ -2,9 +2,9 @@ package database
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/configutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs/codes"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeCommon/pkg/configutils"
+	"github.com/noyedge/EdgeCommon/pkg/langs/codes"
 	"github.com/go-sql-driver/mysql"
 	"github.com/iwind/TeaGo/Tea"
 	"github.com/iwind/TeaGo/actions"

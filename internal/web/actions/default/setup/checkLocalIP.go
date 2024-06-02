@@ -3,8 +3,8 @@
 package setup
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/utils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/utils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
 	"net"
 )
 

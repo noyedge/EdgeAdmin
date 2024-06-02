@@ -3,8 +3,8 @@
 package logs
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
 )
 
 // CheckLogAction 检查是否有日志

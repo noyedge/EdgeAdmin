@@ -1,8 +1,8 @@
 package utils
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeAdmin/internal/const"
-	"github.com/TeaOSLab/EdgeCommon/pkg/configutils"
+	teaconst "github.com/noyedge/EdgeAdmin/internal/const"
+	"github.com/noyedge/EdgeCommon/pkg/configutils"
 	"github.com/iwind/TeaGo/lists"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/miekg/dns"

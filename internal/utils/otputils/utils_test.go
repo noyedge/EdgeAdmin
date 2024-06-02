@@ -3,7 +3,7 @@
 package otputils_test
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/utils/otputils"
+	"github.com/noyedge/EdgeAdmin/internal/utils/otputils"
 	"testing"
 )
 

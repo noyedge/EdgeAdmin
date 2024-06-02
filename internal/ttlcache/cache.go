@@ -1,7 +1,7 @@
 package ttlcache
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/utils"
+	"github.com/noyedge/EdgeAdmin/internal/utils"
 	"time"
 )
 

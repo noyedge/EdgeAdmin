@@ -1,10 +1,10 @@
 package locationutils
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/helpers"
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs/codes"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/helpers"
+	"github.com/noyedge/EdgeCommon/pkg/langs/codes"
+	"github.com/noyedge/EdgeCommon/pkg/serverconfigs"
 	"github.com/iwind/TeaGo/actions"
 	"github.com/iwind/TeaGo/maps"
 	"net/http"

@@ -3,7 +3,7 @@
 package domainutils
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/dnsconfigs"
+	"github.com/noyedge/EdgeCommon/pkg/dnsconfigs"
 	"github.com/iwind/TeaGo/assert"
 	"testing"
 )

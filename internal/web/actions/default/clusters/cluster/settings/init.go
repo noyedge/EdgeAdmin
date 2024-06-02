@@ -1,19 +1,19 @@
 package settings
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/configloaders"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/cache"
-	ddosProtection "github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/ddos-protection"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/dns"
-	firewallActions "github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/firewall-actions"
-	globalServerConfig "github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/global-server-config"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/health"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/metrics"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/services"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/waf"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/webp"
-	clusters "github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/clusterutils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/helpers"
+	"github.com/noyedge/EdgeAdmin/internal/configloaders"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/cache"
+	ddosProtection "github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/ddos-protection"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/dns"
+	firewallActions "github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/firewall-actions"
+	globalServerConfig "github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/global-server-config"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/health"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/metrics"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/services"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/waf"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/settings/webp"
+	clusters "github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/clusterutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/helpers"
 	"github.com/iwind/TeaGo"
 )
 

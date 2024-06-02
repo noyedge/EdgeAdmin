@@ -2,9 +2,9 @@ package configloaders
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeAdmin/internal/rpc"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeCommon/pkg/systemconfigs"
+	"github.com/noyedge/EdgeAdmin/internal/rpc"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeCommon/pkg/systemconfigs"
 	"github.com/iwind/TeaGo/logs"
 	"reflect"
 )

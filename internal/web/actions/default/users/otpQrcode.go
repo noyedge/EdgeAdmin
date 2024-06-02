@@ -2,9 +2,9 @@ package users
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeAdmin/internal/utils/otputils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeAdmin/internal/utils/otputils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
 	"github.com/iwind/TeaGo/maps"
 	"github.com/iwind/TeaGo/types"
 	"github.com/skip2/go-qrcode"

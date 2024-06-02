@@ -2,10 +2,10 @@ package ipaddressutils
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeAdmin/internal/utils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/nodeconfigs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeAdmin/internal/utils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeCommon/pkg/nodeconfigs"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
 	"github.com/iwind/TeaGo/maps"
 )
 

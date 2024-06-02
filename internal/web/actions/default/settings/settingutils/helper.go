@@ -3,11 +3,11 @@
 package settingutils
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/configloaders"
-	teaconst "github.com/TeaOSLab/EdgeAdmin/internal/const"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/helpers"
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs/codes"
+	"github.com/noyedge/EdgeAdmin/internal/configloaders"
+	teaconst "github.com/noyedge/EdgeAdmin/internal/const"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/helpers"
+	"github.com/noyedge/EdgeCommon/pkg/langs/codes"
 	"github.com/iwind/TeaGo/actions"
 )
 

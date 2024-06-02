@@ -3,8 +3,8 @@
 package setup
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/configutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeCommon/pkg/configutils"
 	"github.com/iwind/TeaGo/dbs"
 	"github.com/iwind/TeaGo/maps"
 	"net"

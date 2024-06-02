@@ -2,11 +2,11 @@ package cluster
 
 import (
 	"context"
-	"github.com/TeaOSLab/EdgeAdmin/internal/rpc"
-	"github.com/TeaOSLab/EdgeAdmin/internal/utils/numberutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs/codes"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeAdmin/internal/rpc"
+	"github.com/noyedge/EdgeAdmin/internal/utils/numberutils"
+	"github.com/noyedge/EdgeCommon/pkg/langs"
+	"github.com/noyedge/EdgeCommon/pkg/langs/codes"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
 	"github.com/iwind/TeaGo/maps"
 )
 

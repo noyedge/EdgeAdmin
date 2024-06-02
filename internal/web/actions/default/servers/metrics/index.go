@@ -3,9 +3,9 @@
 package metrics
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeCommon/pkg/serverconfigs"
 	"github.com/iwind/TeaGo/maps"
 )
 

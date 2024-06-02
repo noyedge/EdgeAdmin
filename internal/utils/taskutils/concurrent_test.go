@@ -3,7 +3,7 @@
 package taskutils_test
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/utils/taskutils"
+	"github.com/noyedge/EdgeAdmin/internal/utils/taskutils"
 	"testing"
 )
 

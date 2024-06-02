@@ -4,7 +4,7 @@ package ui
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
 	"github.com/iwind/TeaGo/Tea"
 	"os"
 )

@@ -1,10 +1,10 @@
 package ui
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/utils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/regionconfigs"
+	"github.com/noyedge/EdgeAdmin/internal/utils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeCommon/pkg/serverconfigs/regionconfigs"
 	"github.com/iwind/TeaGo/actions"
 	"github.com/iwind/TeaGo/lists"
 	"github.com/iwind/TeaGo/maps"

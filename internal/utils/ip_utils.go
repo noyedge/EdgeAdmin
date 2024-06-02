@@ -3,7 +3,7 @@ package utils
 import (
 	"bytes"
 	"errors"
-	"github.com/TeaOSLab/EdgeCommon/pkg/iputils"
+	"github.com/noyedge/EdgeCommon/pkg/iputils"
 	"github.com/iwind/TeaGo/types"
 	"net"
 	"strings"

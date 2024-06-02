@@ -4,12 +4,12 @@ package ddosProtection
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/cluster/node/nodeutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/langs/codes"
-	"github.com/TeaOSLab/EdgeCommon/pkg/nodeconfigs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/ddosconfigs"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/cluster/node/nodeutils"
+	"github.com/noyedge/EdgeCommon/pkg/langs/codes"
+	"github.com/noyedge/EdgeCommon/pkg/nodeconfigs"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeCommon/pkg/serverconfigs/ddosconfigs"
 	"github.com/iwind/TeaGo/actions"
 	"github.com/iwind/TeaGo/types"
 	"net"

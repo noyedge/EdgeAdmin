@@ -1,14 +1,14 @@
 package tasks
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeAdmin/internal/const"
-	"github.com/TeaOSLab/EdgeAdmin/internal/events"
-	"github.com/TeaOSLab/EdgeAdmin/internal/goman"
-	"github.com/TeaOSLab/EdgeAdmin/internal/rpc"
-	"github.com/TeaOSLab/EdgeAdmin/internal/setup"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/nodes/nodeutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/messageconfigs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
+	teaconst "github.com/noyedge/EdgeAdmin/internal/const"
+	"github.com/noyedge/EdgeAdmin/internal/events"
+	"github.com/noyedge/EdgeAdmin/internal/goman"
+	"github.com/noyedge/EdgeAdmin/internal/rpc"
+	"github.com/noyedge/EdgeAdmin/internal/setup"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/nodes/nodeutils"
+	"github.com/noyedge/EdgeCommon/pkg/messageconfigs"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
 	_ "github.com/iwind/TeaGo/bootstrap"
 	"github.com/iwind/TeaGo/lists"
 	"github.com/iwind/TeaGo/logs"

@@ -3,10 +3,10 @@ package userutils
 import (
 	"context"
 	"errors"
-	"github.com/TeaOSLab/EdgeAdmin/internal/rpc"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeCommon/pkg/userconfigs"
+	"github.com/noyedge/EdgeAdmin/internal/rpc"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeCommon/pkg/userconfigs"
 	"github.com/iwind/TeaGo/maps"
 	"strings"
 )

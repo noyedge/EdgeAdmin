@@ -4,7 +4,7 @@
 package injectionutils_test
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/waf/injectionutils"
+	"github.com/noyedge/EdgeAdmin/internal/waf/injectionutils"
 	"github.com/iwind/TeaGo/assert"
 	"runtime"
 	"testing"

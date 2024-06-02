@@ -1,10 +1,10 @@
 package clusters
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/configutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/nodeconfigs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeCommon/pkg/configutils"
+	"github.com/noyedge/EdgeCommon/pkg/nodeconfigs"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
 	"github.com/iwind/TeaGo/maps"
 	"github.com/iwind/TeaGo/types"
 )

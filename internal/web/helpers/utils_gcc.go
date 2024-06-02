@@ -4,7 +4,7 @@
 package helpers
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/waf/injectionutils"
+	"github.com/noyedge/EdgeAdmin/internal/waf/injectionutils"
 	"net/http"
 )
 

@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/configs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
+	"github.com/noyedge/EdgeAdmin/internal/configs"
+	"github.com/noyedge/EdgeCommon/pkg/rpc/pb"
 	_ "github.com/iwind/TeaGo/bootstrap"
 	stringutil "github.com/iwind/TeaGo/utils/string"
 	"testing"

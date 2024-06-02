@@ -2,10 +2,10 @@ package redirects
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/dns/domains/domainutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/dns/domains/domainutils"
+	"github.com/noyedge/EdgeCommon/pkg/serverconfigs"
+	"github.com/noyedge/EdgeCommon/pkg/serverconfigs/shared"
 	"github.com/iwind/TeaGo/actions"
 	"net/url"
 	"regexp"

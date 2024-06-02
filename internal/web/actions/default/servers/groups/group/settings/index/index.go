@@ -3,8 +3,8 @@
 package reverseProxy
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeAdmin/internal/const"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
+	teaconst "github.com/noyedge/EdgeAdmin/internal/const"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
 	"github.com/iwind/TeaGo/types"
 )
 

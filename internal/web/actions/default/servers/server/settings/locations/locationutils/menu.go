@@ -4,7 +4,7 @@
 package locationutils
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
+	"github.com/noyedge/EdgeCommon/pkg/serverconfigs"
 	"github.com/iwind/TeaGo/actions"
 	"github.com/iwind/TeaGo/maps"
 )

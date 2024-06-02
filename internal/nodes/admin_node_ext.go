@@ -4,7 +4,7 @@
 package nodes
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/iplibrary"
+	"github.com/noyedge/EdgeCommon/pkg/iplibrary"
 	"github.com/iwind/TeaGo/logs"
 )
 

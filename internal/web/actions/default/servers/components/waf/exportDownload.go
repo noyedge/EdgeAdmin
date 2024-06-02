@@ -1,8 +1,8 @@
 package waf
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/ttlcache"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/ttlcache"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
 	"github.com/iwind/TeaGo/types"
 	"strconv"
 )

@@ -1,9 +1,9 @@
 package services
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/nodes/nodeutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/messageconfigs"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/nodes/nodeutils"
+	"github.com/noyedge/EdgeCommon/pkg/messageconfigs"
 	"github.com/iwind/TeaGo/actions"
 )
 

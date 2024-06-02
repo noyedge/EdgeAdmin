@@ -6,3 +6,5 @@
 *_plus.less
 *_plus.css
 *_plus.css.map
+/dist/web
+/dist/*.zip

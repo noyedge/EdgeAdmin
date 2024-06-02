@@ -3,7 +3,7 @@
 
 package users
 
-import "github.com/TeaOSLab/EdgeAdmin/internal/configloaders"
+import "github.com/noyedge/EdgeAdmin/internal/configloaders"
 
 func (this *OtpQrcodeAction) findProductName() (string, error) {
 	uiConfig, err := configloaders.LoadAdminUIConfig()

@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/configs"
+	"github.com/noyedge/EdgeAdmin/internal/configs"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 	"strings"

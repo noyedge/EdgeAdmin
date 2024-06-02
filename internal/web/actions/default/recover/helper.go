@@ -1,7 +1,7 @@
 package recovers
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeAdmin/internal/const"
+	teaconst "github.com/noyedge/EdgeAdmin/internal/const"
 	"github.com/iwind/TeaGo/actions"
 )
 

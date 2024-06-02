@@ -1,9 +1,9 @@
 package csrf
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/csrf"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/helpers"
+	"github.com/noyedge/EdgeAdmin/internal/csrf"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/helpers"
 	"sync"
 	"time"
 )

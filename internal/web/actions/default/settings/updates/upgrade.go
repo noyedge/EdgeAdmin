@@ -4,10 +4,10 @@ package updates
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeAdmin/internal/utils"
-	executils "github.com/TeaOSLab/EdgeAdmin/internal/utils/exec"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/settings/updates/updateutils"
+	"github.com/noyedge/EdgeAdmin/internal/utils"
+	executils "github.com/noyedge/EdgeAdmin/internal/utils/exec"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/settings/updates/updateutils"
 	"os"
 	"os/exec"
 	"time"

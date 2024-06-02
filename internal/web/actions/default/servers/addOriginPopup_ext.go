@@ -4,7 +4,7 @@
 package servers
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/ossconfigs"
+	"github.com/noyedge/EdgeCommon/pkg/serverconfigs/ossconfigs"
 	"github.com/iwind/TeaGo/maps"
 )
 

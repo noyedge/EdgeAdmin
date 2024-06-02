@@ -3,9 +3,9 @@
 package loginutils
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/configloaders"
-	teaconst "github.com/TeaOSLab/EdgeAdmin/internal/const"
-	"github.com/TeaOSLab/EdgeCommon/pkg/iplibrary"
+	"github.com/noyedge/EdgeAdmin/internal/configloaders"
+	teaconst "github.com/noyedge/EdgeAdmin/internal/const"
+	"github.com/noyedge/EdgeCommon/pkg/iplibrary"
 	"github.com/iwind/TeaGo/actions"
 	stringutil "github.com/iwind/TeaGo/utils/string"
 	"net"

@@ -3,7 +3,7 @@
 package utils
 
 import (
-	executils "github.com/TeaOSLab/EdgeAdmin/internal/utils/exec"
+	executils "github.com/noyedge/EdgeAdmin/internal/utils/exec"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/types"
 	"os/exec"

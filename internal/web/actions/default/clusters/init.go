@@ -1,9 +1,9 @@
 package clusters
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/configloaders"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/default/clusters/clusterutils"
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/helpers"
+	"github.com/noyedge/EdgeAdmin/internal/configloaders"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/default/clusters/clusterutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/helpers"
 	"github.com/iwind/TeaGo"
 )
 

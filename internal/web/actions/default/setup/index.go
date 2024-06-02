@@ -1,7 +1,7 @@
 package setup
 
 import (
-	"github.com/TeaOSLab/EdgeAdmin/internal/web/actions/actionutils"
+	"github.com/noyedge/EdgeAdmin/internal/web/actions/actionutils"
 	"net"
 	"strings"
 )
